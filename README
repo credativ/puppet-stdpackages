@@ -1,0 +1,5 @@
+A simple puppet module to install some standard packages,
+such as:
+
+* less
+* psmisc
