@@ -1,0 +1,11 @@
+= Puppet module stdpackages
+
+A simple puppet module to install some standard packages,
+such as:
+
+* less
+* psmisc
+
+This module does not follow the usual design-principles of common
+credativ modules. It does not configure a service and just installs
+a bunch of packages.
