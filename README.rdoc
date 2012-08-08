@@ -1,4 +1,4 @@
-= Puppet module stdpackages
+= Puppet module: stdpackages
 
 A simple puppet module to install some standard packages,
 such as:
