@@ -1,2 +1,2 @@
-manifests   etc/puppet/modules/stdpackages
+manifests   usr/share/puppet/modules.available/stdpackages
 README*     usr/share/doc/puppet-module-stdpackages
